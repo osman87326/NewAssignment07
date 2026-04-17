@@ -1,16 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### Project Name
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**KeenKeeper**
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+### Short Description
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+KeenKeeper is a responsive web app that helps you stay connected with your friends. You can track when you last talked, log interactions like calls, texts, and video chats, and see your friendship activity in a simple visual way.
+
+
+
+### Technologies Used
+
+React, React Router, Recharts, Tailwind CSS, Toast Notification Library
+
+
+### 3 Key Features
+
+**Friend Management Dashboard**
+See all your friends in one place as cards. Each card shows their photo, name, tags, days since last contact, and a color status. You can click any friend to view more details and quickly log a new interaction.
+
+**Interaction Timeline**
+Every time you log a call, text, or video chat, it gets saved automatically. You can view everything in a timeline and filter by interaction type to find things easily.
+
+**Friendship Analytics**
+A stats page shows a pie chart of your interactions (Call / Text / Video). It helps you understand how you usually stay in touch with your friends.
+
