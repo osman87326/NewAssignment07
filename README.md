@@ -1,10 +1,6 @@
 
 
-### Project Name
-
-**KeenKeeper**
-
-
+## KeenKeeper
 
 ### Short Description
 
