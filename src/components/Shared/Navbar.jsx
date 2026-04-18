@@ -2,7 +2,9 @@ import React from 'react';
 import { BsGraphUp } from 'react-icons/bs';
 import { IoIosTimer } from 'react-icons/io';
 import { IoHomeOutline } from 'react-icons/io5';
+
 import { NavLink } from 'react-router';
+
 
 
 const Navbar = () => {

@@ -10,7 +10,7 @@ import Graph from '../components/graph/Graph';
 import { createBrowserRouter } from 'react-router';
 
 
-export const router = createBrowserRouter([
+export const router= createBrowserRouter([
   {
     path: "/",
     element: <MainLayout> </MainLayout>,

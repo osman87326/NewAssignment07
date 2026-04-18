@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { MdAddCall, MdOutlineDelete, MdOutlineSnooze } from "react-icons/md";
+
 import { IoArchiveOutline } from "react-icons/io5";
 import {
   MessageSquareMore,
@@ -12,6 +12,7 @@ import { FriendContext } from "../context/FriendContext";
 import { toast } from "react-toastify";
 import { useParams } from "react-router";
 import useFriends from "../hooks/useFriends";
+import { MdOutlineDelete, MdOutlineSnooze } from "react-icons/md";
 
 const FriendsDetails = () => {
   const { id } = useParams();
