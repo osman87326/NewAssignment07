@@ -12,6 +12,8 @@
 
 import { Link } from "react-router";
 
+
+
 const FriendsCards = ({ friend }) => {
   const colors = friend.status === "on_track" 
   ? "bg-[#244D3F]" 
