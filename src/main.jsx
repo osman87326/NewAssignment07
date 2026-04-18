@@ -13,7 +13,7 @@ import { RouterProvider } from 'react-router';
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <TimelineProvider> 
-          <RouterProvider router={router} />,
+          <RouterProvider router={router} />
     </TimelineProvider>
       
   </StrictMode>,
