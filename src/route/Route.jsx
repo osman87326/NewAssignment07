@@ -40,7 +40,7 @@ export const router= createBrowserRouter([
     errorElement: <NotFound></NotFound>,
   },
 ]);
-const Routes = () => {
+const Route = () => {
     return (
         <div>
             
@@ -48,4 +48,4 @@ const Routes = () => {
     );
 };
 
-export default Routes;
+export default Route;
