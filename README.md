@@ -6,6 +6,12 @@
 
 KeenKeeper is a responsive web app that helps you stay connected with your friends. You can track when you last talked, log interactions like calls, texts, and video chats, and see your friendship activity in a simple visual way.
 
+---
+
+## 🔗 Live URL
+
+👉 https://gleaming-mermaid-43d4f1.netlify.app/
+---
 
 
 ### Technologies Used
